@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1743412407 source:d:\code\thomo\graphics.cpp
+	"graphics.h"
+
+1743412729 d:\code\thomo\graphics.h
+	"defs.h"
+
+1743414587 d:\code\thomo\defs.h
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+
+1743435334 source:d:\code\thomo\main.cpp
+	"defs.h"
+	"graphics.h"
+	<vector>
+	<ctime>
+
