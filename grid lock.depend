@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1744298392 source:c:\users\admin\onedrive\máy tính\new folder\grid lock\game.cpp
+	"Game.h"
+
+1744298647 c:\users\admin\onedrive\máy tính\new folder\grid lock\game.h
+	<SDL.h>
+	"Grid.h"
+
+1744298647 c:\users\admin\onedrive\máy tính\new folder\grid lock\grid.h
+	<vector>
+	"Tile.h"
+
+1744298647 c:\users\admin\onedrive\máy tính\new folder\grid lock\tile.h
+	<SDL.h>
+
+1744298392 source:c:\users\admin\onedrive\máy tính\new folder\grid lock\grid.cpp
+	"Grid.h"
+	<cstdlib>
+	<ctime>
+
+1744298564 source:c:\users\admin\onedrive\máy tính\new folder\grid lock\main.cpp
+	<SDL.h>
+	"Grid.h"
+
+1744298392 source:c:\users\admin\onedrive\máy tính\new folder\grid lock\tile.cpp
+	"Tile.h"
+
